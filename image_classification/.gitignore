@@ -14,5 +14,4 @@ checkpoint/
 
 # Ignore IDE-specific files (PyCharm, VSCode, etc.)
 .idea/
-.vscode/
 
