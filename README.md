@@ -130,8 +130,8 @@ The dataset consists of images of cats and dogs. Images undergo:
 
 ## Training & Evaluation Results
 Results after 20 epochs:
-- **Train Accuracy:** ~98%
-- **Validation Accuracy:** ~98%
+- **Train Accuracy:** ~99.86%
+- **Validation Accuracy:** ~99.70%
 - **Test Accuracy:** ~99.68%
 - **Final Model:** Saved as `checkpoint/best_model.pth`
 - **Loss & Accuracy Graphs:** View in TensorBoard: `logs/tensorboard/`
@@ -166,7 +166,7 @@ Results after 20 epochs:
 - The model achieves high accuracy without pre-trained weights.
 - **Potential future improvements:** Different architectures, Hyperparameter tuning.
 
-## 🔗 References
+## References
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [TensorBoard](https://www.tensorflow.org/tensorboard)
 
