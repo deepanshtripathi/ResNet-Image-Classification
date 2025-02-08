@@ -12,6 +12,6 @@ venv/
 data/raw/
 checkpoint/
 
-# Ignore IDE-specific files (PyCharm, VSCode, etc.)
+# Ignore IDE-specific file
 .idea/
 
